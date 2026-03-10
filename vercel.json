@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/responsive_email/index.html" },
+    { "source": "/(.*)", "destination": "/responsive_email/$1" }
+  ]
+}

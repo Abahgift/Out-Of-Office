@@ -10,3 +10,4 @@
 
 # Keep .gitignore itself
 !.gitignore
+!vercel.json
