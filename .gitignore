@@ -1,0 +1,12 @@
+# Ignore everything by default
+*
+
+# Allow the folder and its contents
+!responsive_email/
+!responsive_email/**
+
+# Specifically allow the required SVG dependency next to the index file (if needed)
+!Inconsequential.svg
+
+# Keep .gitignore itself
+!.gitignore
